@@ -4,3 +4,6 @@ Date/Language/Folder Name: Description
 26-04-2021/C++/Missing Numbers in Array: Find all numbers missing from an array of (0...n)
 26-04-2021/C++/Duplicate Numbers in Array: Find all numbers that repeat in an array of (0...n)
 26-04-2021/C++/Grid Traveler: Starting at the top left of a x by y grid how many ways can you travel to (0,0) by only moving down and left.
+27-04-2021/C++/Bubble Sort: Bubble sort
+27-04-2021/C++/Insertion Sort: Insertion sort
+27-04-2021/C++/Two Variable Swap: Swap two values using only two variables.
