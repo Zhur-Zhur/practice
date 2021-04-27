@@ -28,6 +28,7 @@ long long fib_r_lamda(int n){
 }
 
 //Calculate fibonacci numbers recursively using a memo to speed up calculations, array instead of dictionary (map).
+//Technically memo is never deleted so memory leak can happen but this implementation doesn't care.
 long long fib_r_alt(int n, long long *memo = NULL){
 	//Allocate array initialy
 	if (memo == NULL){
@@ -42,6 +43,7 @@ long long fib_r_alt(int n, long long *memo = NULL){
 }
 
 //Calculate fibonacci numbers recursively using a memo to speed up calculations, dictionaries (maps) are nice.
+//Technically memo is never deleted so memory leak can happen but this implementation doesn't care.
 #include <unordered_map>
 long long fib_r(int n, std::unordered_map<int, long long> *memo = new std::unordered_map<int, long long>){
 	if (memo->find(n) != memo->end()) return (*memo)[n];
