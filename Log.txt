@@ -7,3 +7,4 @@ Date/Language/Folder Name: Description
 27-04-2021/C++/Bubble Sort: Bubble sort
 27-04-2021/C++/Insertion Sort: Insertion sort
 27-04-2021/C++/Two Variable Swap: Swap two values using only two variables.
+27-04-2021/C++/Merge Sort: Merge sort (arr*, size) implementation.
