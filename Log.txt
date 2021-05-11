@@ -11,3 +11,4 @@ Date/Language/Folder Name: Description
 10-05-2021/C++/Radix Sort: Radix sort
 10-05-2021/C++/Quick Sort: Quick sort
 10-05-2021/C#/Hello World: Hello World in C#
+11-05-2021/C#/All Sum: Find all ways and orders to use a set of integers (>0) to sum to an integer (>0)
