@@ -13,3 +13,4 @@ Date/Language/Folder Name: Description
 10-05-2021/C#/Hello World: Hello World in C#
 11-05-2021/C#/All Sum: Find all ways and orders to use a set of integers (>0) to sum to an integer (>0)
 12-05-2021/C#/Array Duplicate: Find all duplicates in an array of integers
+13-05-2021/C#/Inorder Successor: Find the inorder successor of a node in a binary tree 
